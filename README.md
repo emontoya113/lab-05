@@ -2,12 +2,13 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** Esteban Montoya-Cortes
+- **CCID:** emontoya
 
 ## References and Resources
 
 List any resources used here, or simply put `N/A` if not applicable.
+- https://firebase.google.com/docs/firestore/manage-data/delete-data#fields, Feb 6, 2026
 
 ## Verbal Collaboration
 
